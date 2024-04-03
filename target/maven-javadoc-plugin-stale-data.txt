@@ -1,0 +1,50 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'W:/Williams/ProyectosNetBeans/FortalezaPassword/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'W:/Williams/ProyectosNetBeans/FortalezaPassword/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FortalezaPassword 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'W:/Williams/ProyectosNetBeans/FortalezaPassword/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'FortalezaPassword 1.0-SNAPSHOT API'
+com.ccc.dam.password
+com.ccc.dam.password.puntuador.impl
+com.ccc.dam.password.puntuador
+com.ccc.dam.password.ui
+W:\Williams\ProyectosNetBeans\FortalezaPassword\src\main\java = 1670895487365
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\allclasses-index.html = 1712113421892
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\allpackages-index.html = 1712113421894
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\copy.svg = 1712113421917
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\element-list = 1712113421794
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\help-doc.html = 1712113421913
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\index-all.html = 1712113421909
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\index.html = 1712113421880
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\jquery-ui.overrides.css = 1712113421933
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\member-search-index.js = 1712113421897
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\module-search-index.js = 1712113421895
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\overview-summary.html = 1712113421910
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\overview-tree.html = 1712113421877
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\package-search-index.js = 1712113421895
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\script.js = 1712113421916
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\search.js = 1712113421918
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\serialized-form.html = 1712113421835
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\stylesheet.css = 1712113421915
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\tag-search-index.js = 1712113421897
+W:\Williams\ProyectosNetBeans\FortalezaPassword\target\site\apidocs\type-search-index.js = 1712113421896
